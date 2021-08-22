@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to `git gud` at Azure by doing my AZ-104 certification!
 - ⚡ Fun fact: I am a crazy car nut who also loves everything tech
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
-
+- :purple_heart: is my most favouritist color!
 <!--
 **OliverRC/OliverRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
