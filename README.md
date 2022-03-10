@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building our a Machine Learning platform and Lakehouse using Azure and Azure Databricks.
-- 🌱 I’m currently learning to `git gud` at Azure by doing my AZ-104 certification!
+- 🖥️ currently working on a Vue 3 + Tailwind custom PC Builder... 👁️ watch this space as a BETA should be dropping soon.
+- 🏗️ we are re-architecting our backend and re-platforming our eCommerce systems.
+- 🔮 I am busy modernizing our workflow with Github, Github action and projects and managing our systems via Terraform.
+- 🔭 On the back burner is a Azure Databrick analytics and machine learning engine for gaining insights into our data and assisting internal teams.
+- 🌱 I’m currently learning doing a Udemy course on Vue 3 + Firebase
 - ⚡ Fun fact: I am a crazy car nut who also loves everything tech
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
 - :purple_heart: Purple is my most favouritist color!
