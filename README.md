@@ -8,6 +8,13 @@
 - ⚡ Fun fact: I am a crazy car nut who also loves everything tech
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
 - :purple_heart: Purple is my most favouritist color!
+
+### Personal Development 
+
+I busy on a journey to improve my typing skills. I never invested the time into touch typing and have been on a personal journey to correct this.
+I've currently transitioned to touch typing and you can read more about it [here](https://www.linkedin.com/pulse/learning-type-like-noob-oliver-rivett-carnac/?trackingId=z5ZAsOTJ6h5%2FMF%2FmzADOoA%3D%3D).
+
+
 <!--
 **OliverRC/OliverRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
