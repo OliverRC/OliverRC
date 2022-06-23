@@ -14,6 +14,29 @@
 I busy on a journey to improve my typing skills. I never invested the time into touch typing and have been on a personal journey to correct this.
 I've currently transitioned to touch typing and you can read more about it [here](https://www.linkedin.com/pulse/learning-type-like-noob-oliver-rivett-carnac/?trackingId=z5ZAsOTJ6h5%2FMF%2FmzADOoA%3D%3D).
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=github,cs,dotnet,html,js,vue,css,tailwind,cloudflare,aws,azure,docker,kubernetes,git,powershell,ps,figma,grafana,php)](https://skillicons.dev)
+
+<!-- github
+cs
+dotnet
+html
+js
+vue
+css
+tailwind
+cloudflare
+aws
+azure
+docker
+kubernetes
+git
+powershell
+ps
+figma
+grafana
+php -->
 
 <!--
 **OliverRC/OliverRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
