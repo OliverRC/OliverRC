@@ -18,6 +18,10 @@ I've currently transitioned to touch typing and you can read more about it [here
 
 [![My Skills](https://skillicons.dev/icons?i=github,cs,dotnet,html,js,vue,css,tailwind,cloudflare,aws,azure,docker,kubernetes,git,powershell,ps,figma,grafana,php)](https://skillicons.dev)
 
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverrc)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- github
 cs
 dotnet
