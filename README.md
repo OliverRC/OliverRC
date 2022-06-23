@@ -20,7 +20,7 @@ I've currently transitioned to touch typing and you can read more about it [here
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverrc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverRC)](https://github.com/OliverRC/github-readme-stats)
 
 <!-- github
 cs
