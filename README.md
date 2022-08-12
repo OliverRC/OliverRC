@@ -4,7 +4,7 @@
 - 🏗️ we are re-architecting our backend and re-platforming our eCommerce systems.
 - 🔮 I am busy modernizing our workflow with Github, Github action and projects and managing our systems via Terraform.
 - 🔭 On the back burner is a Azure Databrick analytics and machine learning engine for gaining insights into our data and assisting internal teams.
-- 🌱 I’m currently learning doing a Udemy course on Vue 3 + Firebase
+- 🌱 I’m currently learning Vue 3 + Firebase on Udemy
 - ⚡ Fun fact: I am a crazy car nut who also loves everything tech
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
 - :purple_heart: Purple is my most favouritist color!
