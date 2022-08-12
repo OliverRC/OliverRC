@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🖥️ currently working on a Vue 3 + Tailwind custom PC Builder... 👁️ watch this space as a BETA should be dropping soon.
+- 🖥️ Working on a Vue 3 + Tailwind custom [PC Builder](https://www.wootware.co.za/w/builder)
 - 🏗️ we are re-architecting our backend and re-platforming our eCommerce systems.
-- 🔮 I am busy modernizing our workflow with Github, Github action and projects and managing our systems via Terraform.
-- 🔭 On the back burner is a Azure Databrick analytics and machine learning engine for gaining insights into our data and assisting internal teams.
+- 🔮 I am busy modernizing our workflow with Github, Github action and projects.
 - 🌱 I’m currently learning Vue 3 + Firebase on Udemy
 - ⚡ Fun fact: I am a crazy car nut who also loves everything tech
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
