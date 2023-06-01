@@ -15,39 +15,11 @@ I've currently transitioned to touch typing and you can read more about it [here
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=github,cs,dotnet,html,js,vue,css,tailwind,cloudflare,aws,azure,docker,kubernetes,git,powershell,ps,figma,grafana,php)](https://skillicons.dev)
+#### Moderate Experience
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,cs,dotnet,html,js,vue,css,tailwind,aws,docker,kubernetes,postman)](https://skillicons.dev)
 
-<!-- github
-cs
-dotnet
-html
-js
-vue
-css
-tailwind
-cloudflare
-aws
-azure
-docker
-kubernetes
-git
-powershell
-ps
-figma
-grafana
-php -->
+#### Some Experience
+[![HackingSomeExperience](https://skillicons.dev/icons?i=cloudflare,vercel,php,mysql,nuxtjs,react,nextjs,prisma,ts,ps)](https://skillicons.dev)
 
-<!--
-**OliverRC/OliverRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Have used in the Past
+[![Past Skills](https://skillicons.dev/icons?i=azure,powershell,figma,grafana)](https://skillicons.dev)
