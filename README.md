@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🖥️ Working on a Vue 3 + Tailwind custom [PC Builder](https://www.wootware.co.za/w/builder)
+- 🖥️ Working on a little side-project 
 - 🏗️ we are re-architecting our backend and re-platforming our eCommerce systems.
 - 🔮 I am busy modernizing our workflow with Github, Github action and projects.
-- 🌱 I’m currently learning Vue 3 + Firebase on Udemy
+- 🌱 I’m currently learning NextJS, React, Vercel and Neon
 - ⚡ Fun fact: I am a crazy car nut who also loves everything tech
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
 - :purple_heart: Purple is my most favouritist color!
