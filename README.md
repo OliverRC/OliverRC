@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-- 🖥️ Working on a little side-project 
+- 🖥️ Working on a bit of side-project
+- 🕸️ Rebuilding our promotions pages in Next 13
+- 🦄 Continuously working on our [PC Builder - Wootware](https://builder.wootware.co.za)
 - 🏗️ we are re-architecting our backend and re-platforming our eCommerce systems.
-- 🔮 I am busy modernizing our workflow with Github, Github action and projects.
 - 🌱 I’m currently learning NextJS, React, Vercel and Neon
 - ⚡ Fun fact: I am a crazy car nut who also loves everything tech
+- 👨‍👩‍👧‍👦 Family means everything, and I love my daughter with everything in me
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
 - :purple_heart: Purple is my most favouritist color!
 
 ### Personal Development 
 
-I busy on a journey to improve my typing skills. I never invested the time into touch typing and have been on a personal journey to correct this.
-I've currently transitioned to touch typing and you can read more about it [here](https://www.linkedin.com/pulse/learning-type-like-noob-oliver-rivett-carnac/?trackingId=z5ZAsOTJ6h5%2FMF%2FmzADOoA%3D%3D).
+I am busy on a journey to improve my typing skills. I never invested the time into touch typing and have been on a personal journey to correct this.
+I've currently transitioned to touch typing, and you can read more about it [here](https://www.linkedin.com/pulse/learning-type-like-noob-oliver-rivett-carnac/?trackingId=z5ZAsOTJ6h5%2FMF%2FmzADOoA%3D%3D).
+
+[Monkeytype profile](https://monkeytype.com/profile/OliverRC)
 
 ### Skills
 
