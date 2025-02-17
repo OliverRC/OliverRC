@@ -10,6 +10,14 @@
 - :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
 - :purple_heart: Purple is my most favouritist color!
 
+## Projects
+
+- [PC Builder - Wootware](https://builder.wootware.co.za)
+- [Promotions - Wootware](https://promotions.wootware.co.za/)
+- Annual Black Friday campaigns
+  - [Wootware.co.za - Woot Warp Black Friday Campaign November 2024](https://woot-warp.vercel.app/)
+  - [Woot Loot 2023](https://woot-loot-2023.vercel.app/)
+
 ### Personal Development 
 
 I am busy on a journey to improve my typing skills. I never invested the time into touch typing and have been on a personal journey to correct this.
