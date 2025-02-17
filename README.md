@@ -25,6 +25,31 @@ I've currently transitioned to touch typing, and you can read more about it [her
 
 [Monkeytype profile](https://monkeytype.com/profile/OliverRC)
 
+### Current Tech Stack
+
+Mac Mini M4
+- MacOs Sequoia 15.3
+- WARP shell
+- IDE's
+  -  VS Code Insiders
+  -  Jetbrains Rider
+  -  Jetbrains PhpStorm
+  -  Jetbrains Datagrip
+-  Linear for task management
+-  Obsidian for notes
+-  Docker
+-  Warden.dev for development environments
+-  Frameworks and libraries
+  - Tailwind
+  - PrimeVue
+  - Vue
+  - Nuxt
+  - Next
+  - Hyva
+  - AlphineJS
+- Predominant Languages
+  - C#, Typescript/Javascript, PHP (5 and 8)     
+
 ### Skills
 
 #### Moderate Experience
