@@ -40,13 +40,13 @@ Mac Mini M4
 -  Docker
 -  Warden.dev for development environments
 -  Frameworks and libraries
-  - Tailwind
-  - PrimeVue
-  - Vue
-  - Nuxt
-  - Next
-  - Hyva
-  - AlphineJS
+   - Tailwind
+   - PrimeVue
+   - Vue
+   - Nuxt
+   - Next
+   - Hyva
+   - AlphineJS
 - Predominant Languages
   - C#, Typescript/Javascript, PHP (5 and 8)     
 
