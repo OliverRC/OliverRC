@@ -60,39 +60,3 @@ Mac Mini M4
 
 #### Have used in the Past
 [![Past Skills](https://skillicons.dev/icons?i=azure,powershell,figma,grafana)](https://skillicons.dev)
-
-### Workstation Setup
-
-[Windows Terminal](https://github.com/microsoft/terminal)
-
-```
-winget install --id Microsoft.WindowsTerminal -e
-```
-
-[Scoop](https://github.com/ScoopInstaller/Scoop)
-
-```
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-```
-
-Using Nerd-Fonts - Monaspice (variant of [monospace](https://github.com/githubnext/monaspace) with glyphs)
-https://github.com/ryanoasis/nerd-fonts
-
-```
-scoop bucket add nerd-fonts
-scoop install Monaspace-NF
-```
-
-VS Code Font Settings
-
-```
-    "editor.fontLigatures": true,
-    "editor.fontVariations": false,
-    "editor.fontFamily": "Monaspace Neon Var",
-    "editor.fontSize": 13,
-    "terminal.integrated.fontFamily": "MonaspiceNe NFM Light",
-```
-
-Posh-Git: https://github.com/dahlbyk/posh-git
-Oh-my-posh: https://github.com/JanDeDobbeleer/oh-my-posh
