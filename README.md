@@ -15,7 +15,7 @@
 - [PC Builder - Wootware](https://builder.wootware.co.za)
 - [Promotions - Wootware](https://promotions.wootware.co.za/)
 - Annual Black Friday campaigns
-  - [Wootware.co.za - Woot Warp Black Friday Campaign November 2024](https://woot-warp.vercel.app/)
+  - [Woot Warp 2024](https://woot-warp.vercel.app/)
   - [Woot Loot 2023](https://woot-loot-2023.vercel.app/)
 
 ### Personal Development 
