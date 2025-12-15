@@ -27,8 +27,7 @@ I've currently transitioned to touch typing, and you can read more about it [her
 
 ### Current Tech Stack
 
-Mac Mini M4
-- MacOs Sequoia 15.3
+Macbook Pro M4
 - WARP shell
 - IDE's
   -  VS Code Insiders
@@ -37,7 +36,7 @@ Mac Mini M4
   -  Jetbrains Datagrip
 -  Linear for task management
 -  Obsidian for notes
--  Docker
+-  OrbStack (local Docker)
 -  Warden.dev for development environments
 -  Frameworks and libraries
    - Tailwind
