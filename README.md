@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-- 🖥️ Working on a bit of side-project
-- 🕸️ Rebuilding our promotions pages in Next 13
-- 🦄 Continuously working on our [PC Builder - Wootware](https://builder.wootware.co.za)
-- 🏗️ we are re-architecting our backend and re-platforming our eCommerce systems.
-- 🌱 I’m currently learning NextJS, React, Vercel and Neon
-- ⚡ Fun fact: I am a crazy car nut who also loves everything tech
-- 👨‍👩‍👧‍👦 Family means everything, and I love my daughter with everything in me
-- :briefcase: If you want to check out my Resume you can find it here [Resume](https://oliverrc.github.io/resume/)
-- :purple_heart: Purple is my most favouritist color!
-
 ## Projects
 
 - [PC Builder - Wootware](https://builder.wootware.co.za)
