@@ -11,8 +11,8 @@ Senior software engineer with 17 years shipping production systems, currently le
 
 ### Software
 
-- **Terminal:** WARP shell
-- **IDEs:** VS Code, Windsurf, Jetbrains (Rider, PhpStorm, Datagrip)
+- **Terminal:** Ghostty + Herdr
+- **IDEs:** VS Code, Jetbrains (Rider, PhpStorm, Datagrip)
 - **Tasks:** Linear
 - **Notes:** Obsidian
 - **Environments:** OrbStack (local Docker), Warden.dev
