@@ -4,9 +4,9 @@ Senior software engineer with 17 years shipping production systems, currently le
 
 ### Hardware
 
-- **Monitor:** Dell S3422DWG
+- **Monitor:** WootVision Pro 40W V180 39.7" WUHD (5120x2160)
 - **Keyboard:** Wooting 80HE keyboard
-- **Mouse:** Razer Viper Ultimate
+- **Mouse:** Razer Viper Ultimate / Scyrox V8
 - **Machine:** Macbook Pro M4
 
 ### Software
