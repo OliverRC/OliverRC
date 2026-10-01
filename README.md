@@ -30,3 +30,14 @@ Senior software engineer with 17 years shipping production systems, currently le
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,cs,dotnet,html,js,vue,css,tailwind,aws,docker,kubernetes,postman)](https://skillicons.dev)
 [![HackingSomeExperience](https://skillicons.dev/icons?i=cloudflare,vercel,php,mysql,nuxtjs,react,nextjs,prisma,ts,ps)](https://skillicons.dev)
 [![Past Skills](https://skillicons.dev/icons?i=azure,powershell,figma,grafana)](https://skillicons.dev)
+
+## Software Porfolio
+
+* [Store - Wootware](https://www.wootware.co.za/)
+* [PC Builder - Wootware](https://builder.wootware.co.za/)
+* [Promotions - Wootware](https://promotions.wootware.co.za/)
+
+* [Sinakekele](https://sinakekele.org.za/)
+* [Sinekekele - Events](https://events.sinakekele.org/)
+
+* [Kickflip (deployment took)](https://github.com/OliverRC/kickflip)
